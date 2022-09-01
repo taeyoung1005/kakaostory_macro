@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['kakaostory.py'],
+    ['kakaostory_V1.py'],
     pathex=[],
     binaries=[],
     datas=[],
